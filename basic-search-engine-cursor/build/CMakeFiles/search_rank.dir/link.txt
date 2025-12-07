@@ -1,2 +1,0 @@
-/usr/bin/ar qc lib/libsearch_rank.a  CMakeFiles/search_rank.dir/src/rank/scorer.cpp.o
-/usr/bin/ranlib lib/libsearch_rank.a
