@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libsearch_index.a  CMakeFiles/search_index.dir/src/index/inverted_index.cpp.o CMakeFiles/search_index.dir/src/index/forward_index.cpp.o
+/usr/bin/ranlib lib/libsearch_index.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libsearch_storage.a  CMakeFiles/search_storage.dir/src/storage/index_builder.cpp.o
+/usr/bin/ranlib lib/libsearch_storage.a

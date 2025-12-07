@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libsearch_query.a  CMakeFiles/search_query.dir/src/query/search_engine.cpp.o
+/usr/bin/ranlib lib/libsearch_query.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libsearch_common.a  CMakeFiles/search_common.dir/src/common/document.cpp.o CMakeFiles/search_common.dir/src/common/tokenizer.cpp.o CMakeFiles/search_common.dir/src/common/utils.cpp.o
+/usr/bin/ranlib lib/libsearch_common.a

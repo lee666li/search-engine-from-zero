@@ -1,0 +1,8 @@
+/home/lee/Tencent/learn/basic-search-engine/build/CMakeFiles/rebuild_cache.dir
+/home/lee/Tencent/learn/basic-search-engine/build/CMakeFiles/search_demo.dir
+/home/lee/Tencent/learn/basic-search-engine/build/CMakeFiles/edit_cache.dir
+/home/lee/Tencent/learn/basic-search-engine/build/CMakeFiles/search_storage.dir
+/home/lee/Tencent/learn/basic-search-engine/build/CMakeFiles/search_rank.dir
+/home/lee/Tencent/learn/basic-search-engine/build/CMakeFiles/search_query.dir
+/home/lee/Tencent/learn/basic-search-engine/build/CMakeFiles/search_index.dir
+/home/lee/Tencent/learn/basic-search-engine/build/CMakeFiles/search_common.dir

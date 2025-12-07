@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -O2   CMakeFiles/search_demo.dir/src/main.cpp.o  -o bin/search_demo  lib/libsearch_query.a lib/libsearch_rank.a lib/libsearch_storage.a lib/libsearch_index.a lib/libsearch_common.a 
